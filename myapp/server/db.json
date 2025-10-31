@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": "658c",
+      "name": "Gown Dress",
+      "desc": "Arshia Fashions Girls Maxi Length Embroidered Gown Dress",
+      "imageUrl": "https://m.media-amazon.com/images/I/8116qRjFJAL._SY879_.jpg",
+      "price": "899"
+    },
+    {
+      "id": "280e",
+      "name": "KOTTY",
+      "desc": "Mens Regular Fit|Classic Design with Stylish Look ",
+      "imageUrl": "https://m.media-amazon.com/images/I/61dFcpPdJkL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "749"
+    },
+    {
+      "id": "361c",
+      "name": "JVX",
+      "desc": "Mens Regular Fit|Classic Design with Stylish Look ",
+      "imageUrl": "https://m.media-amazon.com/images/I/61dFcpPdJkL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "749"
+    }
+  ],
+  "users": [
+    {
+      "id": "345",
+      "email": "abc@gmail.com",
+      "phone": "99999999",
+      "username": "testuser",
+      "password": "1234"
+    },
+    {
+      "id": "346",
+      "email": "abc@gmail.com",
+      "phone": "99999999",
+      "username": "abcuser",
+      "password": "1234"
+    }
+  ]
+}
